@@ -14,8 +14,11 @@ This project was created for learning purposes.
 
 ## Screenshots
 
-![Home Screen](screenshots/home.png)
-![Search Screen](screenshots/search.png)
+<div style="display: flex;">
+  <img src="screenshots/home.png" alt="Home Screen" style="width: 300px;"/>
+  <img src="screenshots/search.png" alt="Search Screen" style="width: 300px;"/>
+  <img src="screenshots/full_screen.png" alt="Search Screen" style="width: 300px;"/>
+</div>
 
 ## Installation
 
